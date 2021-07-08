@@ -1,2 +1,2 @@
 <?php
-echo "h i ph p";
+echo "h i p   h p";
